@@ -4,5 +4,5 @@
 <img align="right" width="35%" alt="GIF" src="https://c.tenor.com/Lg1oHSDcG24AAAAC/cat-shades.gif" /> 
 <p align="center" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img  src="https://github-profile-trophy.vercel.app/?username=maisjamil1" alt="maisjamil1" width="100%" /></a> </p>
 <p align="left" width="50%"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maisjamil1&layout=compact&show_icons=true&theme=default" alt="maisjamil1" /></a> </p>
-<p width="30%"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=maisjamil1&" alt="maisjamil1" /></p>
+<p width="20%"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=maisjamil1&" alt="maisjamil1" /></p>
 
