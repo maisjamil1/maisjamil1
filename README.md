@@ -1,2 +1,2 @@
-![Image](https://c.tenor.com/Lg1oHSDcG24AAAAC/cat-shades.gif){ width=50% }
+![Image](https://c.tenor.com/Lg1oHSDcG24AAAAC/cat-shades.gif){:height="36px" width="36px"}.
 
