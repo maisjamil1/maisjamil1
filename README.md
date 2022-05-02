@@ -6,4 +6,4 @@
 
 
 <img width="40%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maisjamil1&layout=compact&show_icons=true&theme=default" alt="maisjamil1" />
-<img width="30%"  align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=maisjamil1&" alt="maisjamil1" />
+<img width="45%"  align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=maisjamil1&" alt="maisjamil1" />
