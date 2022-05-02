@@ -4,6 +4,6 @@
 <img align="right" width="35%" alt="GIF" src="https://c.tenor.com/Lg1oHSDcG24AAAAC/cat-shades.gif" /> 
 <p align="center" > <img  src="https://github-profile-trophy.vercel.app/?username=maisjamil1" alt="maisjamil1" width="100%" /> </p>
 
-<img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maisjamil1&layout=compact&show_icons=true&theme=default" alt="maisjamil1" />
+
 
 <img  align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=maisjamil1&" alt="maisjamil1" />
