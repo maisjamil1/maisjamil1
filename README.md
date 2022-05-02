@@ -2,6 +2,8 @@
 <img align="right" width="35%" alt="GIF" src="https://c.tenor.com/Lg1oHSDcG24AAAAC/cat-shades.gif" /> 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maisjamil1&layout=compact&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
+<p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maisjamil1&layout=compact&show_icons=true&theme=default" alt="maisjamil1" /></a> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maisjamil1" alt="maisjamil1" /></a> </p>
 
 
