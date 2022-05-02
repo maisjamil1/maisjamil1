@@ -5,5 +5,5 @@
 <p align="center" > <img  src="https://github-profile-trophy.vercel.app/?username=maisjamil1" alt="maisjamil1" width="100%" /> </p>
 
 
-<img width="300px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maisjamil1&layout=compact&show_icons=true&theme=default" alt="maisjamil1" />
-<img width="300px"  align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=maisjamil1&" alt="maisjamil1" />
+<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maisjamil1&layout=compact&show_icons=true&theme=default" alt="maisjamil1" />
+<img width="400px"  align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=maisjamil1&" alt="maisjamil1" />
