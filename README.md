@@ -6,7 +6,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maisjamil1&layout=compact&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maisjamil1&show_icons=true&locale=en&layout=compact" alt="maisjamil1" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maisjamil1&show_icons=true&locale=en" alt="maisjamil1" /></p>
 
