@@ -1,3 +1,9 @@
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=4000&pause=1000&color=2B2650&background=E0E0E000&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+There!+%F0%9F%91%8B;I'm+Mais+Aburabie!" />
+</h1>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maisjamil1&label=Profile%20views&color=0e75b6&style=flat" alt="maisjamil1" /> </p>
 
 [![Subranium's github stats](https://github-readme-stats.vercel.app/api?username=maisjamil1&show_icons=true&theme=default&include_all_commits=true&hide=issues&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
