@@ -17,6 +17,17 @@
 [![Subranium's github stats](https://github-readme-stats.vercel.app/api?username=maisjamil1&show_icons=true&theme=default&include_all_commits=true&hide=issues&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <img align="right" width="35%" alt="GIF" src="https://c.tenor.com/Lg1oHSDcG24AAAAC/cat-shades.gif" /> 
 
+
+<h2 align="center">🪔  Highlighted Stack 🪔</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=linux,react,tailwind,mui,html,css,github,figma" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,prisma,mongodb,nextjs,mysql" /><br>
+</div>
+
+<br/>
+
+
 <hr />
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
