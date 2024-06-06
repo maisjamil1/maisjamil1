@@ -2,8 +2,7 @@
 <div align="center">
 
 [![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://techforpalestine.org/learn-more)
-![](https://komarev.com/ghpvc/?username=LIGMATV&color=07bbbc&style=flat-square)
-[![](https://img.shields.io/badge/Status-687790?style=flat-square&logo=proto.io&logoColor=15ff00)](https://ligmatv.is-a.dev/status/)
+![](https://komarev.com/ghpvc/?username=maisjamil1&color=07bbbc&style=flat-square)
 </p>
 </div>
 
